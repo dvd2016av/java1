@@ -1,0 +1,14 @@
+package java1;
+import java.awt.*;
+import javax.swing.*;
+import javax.swing.Button.*;
+
+public class java1{
+        public static void main(String[]args){
+        JFrame yy =new JFrame("");
+        JButton yht =new JButton("");
+        yy.setText("");
+        yht.setText("");
+        yy.add(yht);
+        }
+        
